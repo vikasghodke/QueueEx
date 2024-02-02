@@ -1,0 +1,14 @@
+D:\C#\QueueDS\QueueDS\bin\Debug\net8.0\QueueDS.exe
+D:\C#\QueueDS\QueueDS\bin\Debug\net8.0\QueueDS.deps.json
+D:\C#\QueueDS\QueueDS\bin\Debug\net8.0\QueueDS.runtimeconfig.json
+D:\C#\QueueDS\QueueDS\bin\Debug\net8.0\QueueDS.dll
+D:\C#\QueueDS\QueueDS\bin\Debug\net8.0\QueueDS.pdb
+D:\C#\QueueDS\QueueDS\obj\Debug\net8.0\QueueDS.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\QueueDS\QueueDS\obj\Debug\net8.0\QueueDS.AssemblyInfoInputs.cache
+D:\C#\QueueDS\QueueDS\obj\Debug\net8.0\QueueDS.AssemblyInfo.cs
+D:\C#\QueueDS\QueueDS\obj\Debug\net8.0\QueueDS.csproj.CoreCompileInputs.cache
+D:\C#\QueueDS\QueueDS\obj\Debug\net8.0\QueueDS.dll
+D:\C#\QueueDS\QueueDS\obj\Debug\net8.0\refint\QueueDS.dll
+D:\C#\QueueDS\QueueDS\obj\Debug\net8.0\QueueDS.pdb
+D:\C#\QueueDS\QueueDS\obj\Debug\net8.0\QueueDS.genruntimeconfig.cache
+D:\C#\QueueDS\QueueDS\obj\Debug\net8.0\ref\QueueDS.dll
